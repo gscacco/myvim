@@ -20,6 +20,7 @@
  NeoBundle 'mattn/emmet-vim'
  NeoBundle 'tpope/vim-fugitive'
  NeoBundle 'tpope/vim-fireplace'
+ NeoBundle 'guns/vim-clojure-static'
  NeoBundle 'guns/vim-sexp'
  NeoBundle 'bling/vim-airline'
  NeoBundle 'dag/vim-fish'
@@ -32,6 +33,7 @@
 
  NeoBundle 'vimwiki/vimwiki'
  NeoBundle 'kien/ctrlp.vim'
+ NeoBundle 'terryma/vim-multiple-cursors'
 
  " My Bundles here:
  " Refer to |:NeoBundle-examples|.
